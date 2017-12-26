@@ -1,7 +1,4 @@
-# Google Cloud Architect Professional Certification Exam
-# Resources to prepare for Google Certified Cloud Architect Professional Exam
-
-### < Work in Progress> 
+# Study Resources for the Google Cloud Architect Professional Certification Exam
 
 ## Resources provided by Google
 - [Certification Guide]()
