@@ -1,5 +1,16 @@
 # Google Cloud Architect Professional Certification Exam - Preparation Resources
 
+Table of Contents
+=================
+* [Resources provided by Google](#resources-provided-by-google)
+* [Resources provided by Google for Partners](#resources-provided-by-google-for-partners)
+* [Medium Community](#medium-community)
+* [Get Help when in doubt.](#get-help-when-in-doubt)
+* [Paid Training options](#paid-training-options)
+* [Exam Experience and Guidance from other authors on the net](#exam-experience-and-guidance-from-other-authors-on-the-net)
+* [Last Minute Revision](#last-minute-revision)
+* [YouTube Playlists](#youtube-playlists)
+* [Cool Stuff](#cool-stuff)
 
 ## Resources provided by Google
 - [Professional Cloud Architect Certification Exam Guide](https://cloud.google.com/certification/guides/cloud-architect/#certificate-exam-guide) #This should be your starting point in preparation which helps you prepare objectively for the exam and not get lost in the journey. 
