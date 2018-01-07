@@ -22,6 +22,10 @@
 - [GCP - Curated Articles for Developers](https://medium.com/google-cloud)
 
 
+## Get Help when in doubt.
+- [Google Cloud Platform Community Slack Channel](https://googlecloud-community.slack.com/messages) #Feel free to ask a question to the ever helpful community on Slack
+- [Google Groups](https://groups.google.com) #I didn't find a specific group for GCP but there are multiple groups per service.
+
 ## Paid Training options
 - [Linux Academy - Google Platform Courses](https://linuxacademy.com/cp/library/catalog/view/GoogleCloudPlatformCourses)
 - [ROI Training - Googlle ](http://www.roitraining.com/services/google-cloud-platform-training/)
