@@ -51,6 +51,7 @@ Table of Contents
 - [Kevin Clements](https://www.linkedin.com/pulse/taking-google-certified-professional-cloud-exam-kevin-clements/)
 - [Ed Aviza](https://www.linkedin.com/pulse/you-certifiable-ed-aviza/)
 - [Richard Bennett](https://www.cloudreach.com/blog/google-certified-professional-cloud-architect-exam/)
+- [Preparing for the GCP Cloud Architect certification with Raphael Soeiro](https://www.youtube.com/watch?v=kM8h_IZWYjA)
 
 
 ## Last Minute Revision
