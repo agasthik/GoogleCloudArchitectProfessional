@@ -39,7 +39,7 @@ Table of Contents
 
 ## Paid Training options
 - [Linux Academy - Google Platform Courses](https://linuxacademy.com/cp/library/catalog/view/GoogleCloudPlatformCourses)
-- [ROI Training - Googlle ](http://www.roitraining.com/services/google-cloud-platform-training/)
+- [ROI Training - Google ](http://www.roitraining.com/services/google-cloud-platform-training/)
 - [Coursera - GCP Architecture Specialization](https://www.coursera.org/specializations/gcp-architecture)
 
 
